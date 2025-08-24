@@ -4,7 +4,7 @@ import "./index.css";
 import App from "./App.jsx";
 import { ClerkProvider } from "@clerk/clerk-react";
 import { DataProvider } from "./Context/DataContext.jsx";
-import { CartProvider } from "./context/CartContext.jsx";
+import { CartProvider } from "./Context/CartContext.jsx";
 import { ToastContainer } from "react-toastify";
 import ScrollToTop from "react-scroll-to-top";
 
